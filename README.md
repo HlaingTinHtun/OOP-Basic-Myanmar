@@ -7,14 +7,14 @@ OOP အခြေခံ theory တွေကို PHP code နမူနာတွ�
 - Introduction
 - Class and objects
 - Visibility
+- Inheritance
+- Static Properties and methods
 
 ## WIP
 
-- Static Method and properties
 - Interface
 - Abstract class
 - Interface vs abstract class
-- Inheritance
 - traits
 - Magic methods
 - Polymorphism
