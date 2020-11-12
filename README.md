@@ -12,13 +12,13 @@ PHP ကိုအသုံးပြု၍ လက်တွေ့ project မျာ
 - Visibility
 - Inheritance
 - Static Properties and methods
-
-## WIP
-
 - Interface
 - Abstract class
 - Interface vs abstract class
-- traits
+- Traits
+
+## WIP
+
 - Magic methods
 - Polymorphism
 - Dependency Injection
