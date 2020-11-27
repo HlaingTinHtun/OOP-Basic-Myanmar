@@ -5,7 +5,7 @@ OOP အခြေခံ theory တွေကို PHP code နမူနာတွ�
 PHP ကိုအသုံးပြု၍ လက်တွေ့ project များကို ကိုယ်တိုင်ကိုယ်ကျ ရေးသားနိုင်အောင် A Programmer မှသင်ကြားပေးနေပါသည်။<br />
 ကြည့်ရှုရန် - https://bit.ly/3kWQlsf
 
-## Done
+## TOC
 
 - Introduction
 - Class and objects
@@ -16,12 +16,10 @@ PHP ကိုအသုံးပြု၍ လက်တွေ့ project မျာ
 - Abstract class
 - Interface vs abstract class
 - Traits
-
-## WIP
-
 - Magic methods
 - Polymorphism
 - Dependency Injection
+
 
 Web Development နှင့်ပတ်သတ်၍ အခြေခံမှ အဆင့်မြင့်အထိ
 Online သင်တန်းများကို A Programmer မှတစ်ဆင့် လေ့လာနိုင်နေပါပြီ။ <br />
